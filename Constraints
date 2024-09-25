@@ -1,0 +1,7 @@
+
+current_design ALU_4bit
+set_input_delay -max 2.0 [get_ports A]
+set_input_delay -max 2.0 [get_ports B]
+set_input_delay -max 2.0 [get_ports ALU_Sel]
+set_output_delay -max 2.0 [get_ports ALU_Out]
+set_output_delay -max 2.0 [get_ports Carry_Out]
