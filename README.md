@@ -82,3 +82,11 @@ endmodule
 ```
 
 
+![alu_full](https://github.com/user-attachments/assets/1c8f8445-ffee-4047-887a-128725fd02f3)
+![alu_floor](https://github.com/user-attachments/assets/65204ddf-4575-4bee-ba20-efa209e2aab1)
+![alu](https://github.com/user-attachments/assets/9e26e6a6-54b7-4a93-bf8e-2326b66cef66)
+
+
+
+
+
